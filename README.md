@@ -45,7 +45,7 @@ usage: SalesTaxes
 
 For instance:
 ```shell script
-java -jar target/sales-taxes-1.0-SNAPSHOT-jar-with-dependencies.jar -e "books,medical products,food" -c categories.csv -i input_1.txt
+java -jar sales-taxes-1.0-SNAPSHOT-jar-with-dependencies.jar -e "books,medical products,food" -c categories.csv -i input_1.txt
 ```
 Will print
 ```text
